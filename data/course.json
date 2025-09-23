@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "legacy_uid": "5d49d398-c857-52ae-7493-90bd7cc02280",
+  "instructors": {
+    "content": [
+      "1189e6d6-7630-485a-b3a6-0cdacfcb57b6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "872ce70b-a029-d276-669f-75ac2fb69d02",
+    "website": "11-131-educational-theory-and-practice-iii-spring-2012"
+  },
+  "course_title": "Educational Theory and Practice III",
+  "course_description": "This is the final course in the three-course sequence (11.129, 11.130 and 11.131) that deals with the practicalities of teaching students. Areas of study will include: educational psychology, identification of useful resources that support instruction, learning to use technology in meaningful ways in the classroom, finding more methods of motivating students, implementing differentiated instruction and obtaining a teaching job.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.131",
+  "course_image_thumbnail": {
+    "content": "812145c8-402e-cf22-6ed6-251628ca07ec",
+    "website": "11-131-educational-theory-and-practice-iii-spring-2012"
+  },
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "b9652857-13b1-4de7-97fb-80c6f0236d6a",
+  "site_short_id": "11.131-spring-2012",
+  "site_url_path": "courses/11-131-educational-theory-and-practice-iii-spring-2012",
+  "title": "Course Metadata"
+}

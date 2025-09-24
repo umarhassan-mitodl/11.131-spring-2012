@@ -11,7 +11,7 @@ uid: 84ff0e5b-d0bd-3f42-f77a-db905b243acb
 *   Written reflections (journal)
 *   Selected readings from the following:
 
-Canada, Geoffrey. _Fist Stick Knife Gun: A Personal History of Violence_. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with [Google Books](http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover)\]
+Canada, Geoffrey. _Fist Stick Knife Gun: A Personal History of Violence_. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with {{% resource_link "1e86cb4a-80c9-4edf-b604-5b87f86e2c9e" "Google Books" %}}\]
 
 Pipher, Mary. _Reviving Ophelia: Saving the Selves of Adolescent Girls_. The Penguin Group, 2005. ISBN: 9781594481888.
 

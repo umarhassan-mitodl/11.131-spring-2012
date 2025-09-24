@@ -109,7 +109,7 @@ The administrator's point of view, Part II
 {{< tdclose >}}{{< tdopen >}}
 Getting a teaching job. Interviewing.
 {{< tdclose >}}{{< tdopen >}}
-[Preservice Performance Assessment for Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form and Practicum log due
+{{% resource_link "4f8af828-6a7b-4415-a77a-1500be030161" "Preservice Performance Assessment for Practicum (PDF)" %}} form and Practicum log due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}

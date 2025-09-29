@@ -3,6 +3,8 @@ content_type: page
 description: This section provides a course overview and information on main activities,
   meeting times, prerequisites, the MIT/Wellesley Scheller Teacher Education Program
   (STEP), course requirements, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ This course concentrates on the theory and psychology associated with student le
 The MIT/Wellesley Scheller Teacher Education Program
 ----------------------------------------------------
 
-The {{% resource_link "7a4bd176-d430-42f6-b200-5e04d9b61a9f" "MIT/Wellesley Scheller Teacher Education Program" %}} (STEP) prepares MIT and Wellesley College students to become teachers who are:
+The [MIT/Wellesley Scheller Teacher Education Program](http://education.mit.edu/classes/overview) (STEP) prepares MIT and Wellesley College students to become teachers who are:
 
 *   Competent to teach in their field and not afraid to challenge established norms.
 *   Able to bridge the boundaries among disciplines.
@@ -42,7 +44,7 @@ Main Activities
 *   Locate and use outside resources (e.g. journals, web, other texts) to support your teaching.
 *   Seek ways to use technology to enhance your instruction.
 *   Journal your teaching experience. The journal will provide the basis for your final reflective paper.
-*   Complete the {{% resource_link "4f8af828-6a7b-4415-a77a-1500be030161" "Preservice Performance Assessment Practicum (PDF)" %}} form.
+*   Complete the [Preservice Performance Assessment Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
 *   Observe and interview two experienced instructors at your school who teach heterogeneously grouped classes. Write a paper describing the classroom observations and your interview with the instructor. Be sure to include what you learned. Address the question of heterogeneous grouping from your perspective, from the teacher's perspective and from the perspective of three articles on this subject, pro and con.
 *   Complete a special project that benefits students and/or school at which you did your student teaching.
 *   Compose a course expectation handout for your students, detailing your expectations, rules and procedures.

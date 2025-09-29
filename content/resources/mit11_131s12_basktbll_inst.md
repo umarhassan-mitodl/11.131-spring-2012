@@ -4,6 +4,8 @@ description: This resource contains information regarding basketball instruction
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/53109fb4c36be70a052bf161ba8e1ec1_MIT11_131S12_Basktbll_inst.pdf
 file_size: 539380
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

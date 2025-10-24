@@ -3,8 +3,6 @@ content_type: page
 description: This section provides a course overview and information on main activities,
   meeting times, prerequisites, the MIT/Wellesley Scheller Teacher Education Program
   (STEP), course requirements, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

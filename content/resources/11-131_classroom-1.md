@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/879dacc1b2ad3d576a82742a0f949871_11-131_classroom-1.png
 file_size: 80278
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

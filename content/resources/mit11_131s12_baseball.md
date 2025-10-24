@@ -5,8 +5,6 @@ description: This resource contains information regarding baseball with systems 
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/861af38a7d7dc1099ae03c24284a378f_MIT11_131S12_Baseball.pdf
 file_size: 2195980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains information regarding bingo intro to algebra
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/388c6bc8ed606b3b7c4b556209519bef_MIT11_131S12_Binmdrvew.pdf
 file_size: 585611
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

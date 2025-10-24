@@ -4,8 +4,6 @@ description: This resource contains information regarding jeopardy.
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/603e2bcf98508db99e668490f119127d_MIT11_131S12_Jeopardy.pdf
 file_size: 317087
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

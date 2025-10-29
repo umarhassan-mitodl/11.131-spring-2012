@@ -66,7 +66,7 @@ Some anticipated future changes include
 ### Requirements Satisfied
 
 - HASS ![](/images/educator/icon-question-hass.png)
-- Part of the [Scheller Teacher Education Program sequence](https://education.mit.edu/), which can be used toward teacher certification in Massachusetts
+- Part of the {{% resource_link "1a3b7534-1067-4a39-a382-7a8e9c00d9d2" "Scheller Teacher Education Program sequence" %}}, which can be used toward teacher certification in Massachusetts
 
 ### Offered
 

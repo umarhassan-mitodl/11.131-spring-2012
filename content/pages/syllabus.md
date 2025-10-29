@@ -28,7 +28,7 @@ This course concentrates on the theory and psychology associated with student le
 The MIT/Wellesley Scheller Teacher Education Program
 ----------------------------------------------------
 
-The [MIT/Wellesley Scheller Teacher Education Program](http://education.mit.edu/classes/overview) (STEP) prepares MIT and Wellesley College students to become teachers who are:
+The {{% resource_link "61c92abd-a7ab-43c7-b5dd-2408e3948c41" "MIT/Wellesley Scheller Teacher Education Program" %}} (STEP) prepares MIT and Wellesley College students to become teachers who are:
 
 *   Competent to teach in their field and not afraid to challenge established norms.
 *   Able to bridge the boundaries among disciplines.
@@ -42,7 +42,7 @@ Main Activities
 *   Locate and use outside resources (e.g. journals, web, other texts) to support your teaching.
 *   Seek ways to use technology to enhance your instruction.
 *   Journal your teaching experience. The journal will provide the basis for your final reflective paper.
-*   Complete the [Preservice Performance Assessment Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
+*   Complete the {{% resource_link "2f5d92fa-23ac-49c2-8de6-0113fda61424" "Preservice Performance Assessment Practicum (PDF)" %}} form.
 *   Observe and interview two experienced instructors at your school who teach heterogeneously grouped classes. Write a paper describing the classroom observations and your interview with the instructor. Be sure to include what you learned. Address the question of heterogeneous grouping from your perspective, from the teacher's perspective and from the perspective of three articles on this subject, pro and con.
 *   Complete a special project that benefits students and/or school at which you did your student teaching.
 *   Compose a course expectation handout for your students, detailing your expectations, rules and procedures.
